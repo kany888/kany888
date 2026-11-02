@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour, je suis Kany Sissako 👋</h1>
 
 <p align="center">
-  <b>Étudiante en IA & Business · Data & Intelligence Artificielle· SQL · Python · Power BI</b>
+  <b>Étudiante en IA & Business · Data & Intelligence Artificielle · SQL · Python · Power BI</b>
 </p>
 
 <p align="center">
