@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour, je suis Kany Sissako 👋</h1>
 
 <p align="center">
-  <b>Étudiante en IA & Business · Data & Intelligence Artificielle · SQL · Python · Power BI</b>
+  <b>Étudiante en IA & Business · Data & Intelligence Artificielle· SQL · Python · Power BI</b>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ Passionnée de data et de nouvelles technologies, j'aime **faire parler les chif
 
 Étudiante en dernière année de **Bachelor Intelligence Artificielle & Business** à **Nexa Digital School**, je travaille avec **SQL, Python et Power BI**, avec une approche orientée résultats et l'envie d'apprendre en continu, notamment en systèmes d'information.
 
-**Je recherche une alternance en Data et Intelligence Artificielle .**
+**Je recherche une alternance en Data et Intelligence Artificielle.**
 
 ## Langages et outils
 
