@@ -34,13 +34,15 @@ Passionnée de data et de nouvelles technologies, j'aime **faire parler les chif
 
 **Ce que j'apprends :**
 
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Agents IA](https://img.shields.io/badge/Agents_IA-0F766E?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-6A1B9A?style=for-the-badge)
 
 ## Projets
 
 | Projet | Outils | Ce que j'ai réalisé |
 |---|---|---|
-| **Analyse des ventes NexaStore 2024-2025** | Power BI, Power Query, DAX | Nettoyage des données (18 134 → 18 049 commandes, 85 doublons supprimés), modèle en étoile, rapport interactif de 4 pages et recommandations présentées à la direction |
+| [**Analyse des ventes NexaStore 2024-2025**](https://github.com/kany888/nexastore-powerbi) | Power BI, Power Query, DAX | Nettoyage des données (18 134 → 18 049 commandes, 85 doublons supprimés), modèle en étoile, rapport interactif de 4 pages et recommandations présentées à la direction |
 | **Audit qualité & NLP d'un chatbot RH** | Python, NLP | Détection d'anomalies dans le corpus, règles de contrôle documentées, rapport de synthèse avec recommandations |
 | **Structuration du dataset Open Food Facts** | Python | Traitement des valeurs manquantes, des doublons et des formats d'un dataset volumineux |
 | **Analyse exploratoire « Tour Eiffel »** | Python, Pandas | Nettoyage des données, analyse des corrélations et visualisations |
